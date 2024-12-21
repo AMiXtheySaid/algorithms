@@ -20,7 +20,11 @@ Discover how to check if two strings are anagrams of each other, meaning they co
 Counting vowels in a string is a fundamental task that reinforces your understanding of string traversal and character comparison.
 
 8. Fizz Buzz
-A classic problem that combines numbers and strings. You'll learn to output "Fizz," "Buzz," or "FizzBuzz" based on a number's divisibility, sharpening your logical thinking and control flow mastery.
+The Fizz Buzz problem is a classic programming challenge that involves printing numbers from 1 to a given limit. For each number:
+Print "Fizz" if the number is divisible by 3.
+Print "Buzz" if the number is divisible by 5.
+Print "FizzBuzz" if the number is divisible by both 3 and 5.
+Otherwise, print the number itself, sharpening your logical thinking and control flow mastery.
 
 9. Steps String Pattern
 Create a step-like pattern using strings, a unique challenge that enhances your understanding of nested loops and string manipulation.
